@@ -1,0 +1,7 @@
+__pycache__
+.venv/
+.test_files/
+config.py
+*.egg-info
+*.zip
+*.pyc
