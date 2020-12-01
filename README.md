@@ -1,6 +1,6 @@
 # Cookiecutter Simple Python Package
 
-This is a simple template for siple python packages
+This is a simple template for simple python packages
 
 ## Usage
 
